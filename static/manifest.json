@@ -1,0 +1,8 @@
+{
+  "name": "Shipping Forecast",
+  "short_name": "Shipping Forecast",
+  "start_url": "/index.html",
+  "display": "browser",
+  "background-color": "#eff0f1",
+  "description": "A website guide the Shipping Forecast"
+}
